@@ -1,5 +1,5 @@
 {
-    "name": "mb dice history",
+    "name": "dice history",
     "description": "",
     "dependencies": {
         "core": "*",
